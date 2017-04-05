@@ -1,7 +1,5 @@
 Managing the process of building and running a SAAS system.
 
-[OBJECTIVE](research/objective.md) - What's the goals of this project?
-
 [PERSONAS](research/personas.md) - Who will use this system?
 
 [VALUE](research/value.md) - What problems are we trying to solve?
